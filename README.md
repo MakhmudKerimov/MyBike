@@ -28,7 +28,6 @@ Follow these steps to run the project locally:
 
 1. Clone the repository
    git clone https://github.com/MakhmudKerimov/MyBike.git
-   cd museum-2-landing
 
 2. Install dependencies
    npm install or yarn install
